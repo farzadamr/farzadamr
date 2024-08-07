@@ -14,11 +14,11 @@
 
 ###
 
-<p align="left">I'm Farzad , a passionate developer with a love for coding and problem-solving.<br>❖ 🧠 I'm currently, learning about Microservices and design patterns and i interest this concepts. 🌱<br>❖ ☕ in my free time, i drink coffee and solving algorithm challenges.<br>❖ 💡 When I'm not coding, you can find me hiking and climbing. or maybe reading..😉<br>❖ 👯 I’m looking to collaborate on .NET Projects<br><br>Feel free to check out my repositories and connect with me!</p>
+<p align="left">I'm Farzad , a passionate developer with a love for coding and problem-solving.<br>❖ 🧠 I'm currently, learning about Microservices and design patterns and i interest this concepts. 🌱<br>❖ ☕ in my free time, i drink coffee and solving algorithm challenges.<br>❖ 💡 When I'm not coding, you can find me hiking and climbing. or maybe reading..😉<br>❖ 👯 I’m looking to collaborate on .NET Projects</p>
 
 ###
 
-<h2 align="center">🛠️ Languages, Tools and Technologies<br>━━━━━━ ❖ ━━━━━━</h2>
+<h2 align="center">🛠️ Languages, Tools and Technologies</h2>
 
 ###
 
@@ -66,4 +66,12 @@
 
 <h2 align="center">Connect me:</h2>
 
+[![frzdamr](https://img.shields.io/badge/frzdamr-text%20me!-green?labelColor=aqua&style=social&logo=telegram&logoColor=blue&link=https://t.me/frzdamr)](https://t.me/frzdamr)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect%20me!-green?labelColor=aqua&style=social&logo=linkedin&logoColor=blue&link=https://t.me/frzdamr)](#)
+
+[![Gmail](https://img.shields.io/badge/Gmail-message%20me!-green?labelColor=aqua&style=social&logo=gmail&logoColor=blue&link=https://t.me/frzdamr)](https://amirifarzad1381@gmail.com)
+
 ###
+
+<p align="center">Feel free to check out my repositories and connect with me!</p>
