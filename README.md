@@ -66,7 +66,7 @@
 
 <h2 align="center">Connect me:</h2>
 
-[![frzdamr](https://img.shields.io/badge/frzdamr-text%20me!-green?labelColor=aqua&style=social&logo=telegram&logoColor=blue&link=https://t.me/frzdamr)](https://t.me/frzdamr)
+[![Telegram](https://img.shields.io/badge/frzdamr-text%20me!-green?labelColor=aqua&style=social&logo=telegram&logoColor=blue&link=https://t.me/frzdamr)](https://t.me/frzdamr)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect%20me!-green?labelColor=aqua&style=social&logo=linkedin&logoColor=blue&link=https://t.me/frzdamr)](#)
 
