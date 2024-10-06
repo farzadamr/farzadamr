@@ -64,6 +64,8 @@
 
 ###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sqvck6jorbzhkwhbpctbfxv36m)
+
 <h2 align="center">Connect me:</h2>
 
 [![Telegram](https://img.shields.io/badge/Telegram-text%20me!-green?labelColor=aqua&style=social&logo=telegram&logoColor=blue&link=https://t.me/frzdamr)](https://t.me/frzdamr)
