@@ -66,7 +66,7 @@
 <h2 align="center">Music:</h2>
 <center>
 
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sqvck6jorbzhkwhbpctbfxv36m)
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315mp43u3n5kf7ao5jfesm4nm5ni)
 
 </center>
 
