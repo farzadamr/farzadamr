@@ -64,8 +64,8 @@
 
 ###
 <h2 align="center">Music:</h2>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqvck6jorbzhkwhbpctbfxv36m"></img>
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sqvck6jorbzhkwhbpctbfxv36m)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sqvck6jorbzhkwhbpctbfxv36m)
 
 ###
 <h2 align="center">Connect me:</h2>
