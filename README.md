@@ -65,7 +65,7 @@
 ###
 <h2 align="center">Music:🎧🎵</h2>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315mp43u3n5kf7ao5jfesm4nm5ni&count={5})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315mp43u3n5kf7ao5jfesm4nm5ni)
 
 
 <h2 align="center">Connect me:</h2>
