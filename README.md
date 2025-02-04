@@ -20,40 +20,33 @@
 
 <h2 align="center">🛠️ Languages, Tools and Technologies</h2>
 
+
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="40" alt="csharp logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
 </div>
 
 ###
@@ -70,11 +63,18 @@
 
 <h2 align="center">Connect me:</h2>
 
-[![Telegram](https://img.shields.io/badge/Telegram-text%20me!-green?labelColor=aqua&style=social&logo=telegram&logoColor=blue&link=https://t.me/frzdamr)](https://t.me/frzdamr)
+<a href="https://t.me/frzdamr" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@frzdamr-blue?logo=telegram" alt="Telegram">
+</a>
+<a href="https://www.linkedin.com/in/farzadamiri2002/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me!-blue?logo=linkedin" alt="LinkedIn">
+</a>
+<a href="mailto:amirifarzad1381@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-amirifarzad1381@gmail.com-D14836?logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect%20me!-green?labelColor=aqua&style=social&logo=linkedin&logoColor=blue&link=https://t.me/frzdamr)](#)
 
-[![Gmail](https://img.shields.io/badge/Gmail-message%20me!-green?labelColor=aqua&style=social&logo=gmail&logoColor=blue&link=https://t.me/frzdamr)](https://amirifarzad1381@gmail.com)
+
 
 ###
 
