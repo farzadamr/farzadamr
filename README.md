@@ -62,16 +62,16 @@
 
 
 <h2 align="center">Connect me:</h2>
-
-<a href="https://t.me/frzdamr" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@frzdamr-blue?logo=telegram" alt="Telegram">
+<div align-items="center">
+  <a href="https://t.me/frzdamr" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Message%20me!-blue?logo=telegram" alt="Telegram">
 </a>
 <a href="https://www.linkedin.com/in/farzadamiri2002/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-connect%20with%20me!-blue?logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me!-blue?logo=linkedin" alt="LinkedIn">
 </a>
-<a href="mailto:amirifarzad1381@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-amirifarzad1381@gmail.com-D14836?logo=gmail&logoColor=white" alt="Gmail">
-</a>
+
+</div>
+
 
 
 
