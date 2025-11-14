@@ -58,8 +58,13 @@
 ###
 <h2 align="center">Music:🎧🎵</h2>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315mp43u3n5kf7ao5jfesm4nm5ni)
+<div align="center">
+  <a href="https://open.spotify.com/user/31sqvck6jorbzhkwhbpctbfxv36m">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sqvck6jorbzhkwhbpctbfxv36m&count=4&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
+###
 
 <h2 align="center">Connect me:</h2>
 <div align-items="center">
