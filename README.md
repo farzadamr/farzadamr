@@ -67,14 +67,14 @@
 ###
 
 <h2 align="center">Connect me:</h2>
-<div align-items="center">
-  <a href="https://t.me/frzdamr" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Message%20me!-blue?logo=telegram" alt="Telegram">
-</a>
-<a href="https://www.linkedin.com/in/farzadamiri2002/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me!-blue?logo=linkedin" alt="LinkedIn">
-</a>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/farzadamiri2002/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/frzdamr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
 </div>
 
 
